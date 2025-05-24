@@ -1,4 +1,4 @@
-# HTML & CSS: Sıfırdan Uzmanlığa Detaylı Eğitim
+# HTML & CSS: Sıfırdan
 
 ## 🎯 Genel Bakış
 
